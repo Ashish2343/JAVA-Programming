@@ -5,7 +5,7 @@ import Sorting.InsertionSorting;
 // Here we have to create linkedlist methods which add numbers in linkedlist by a call and also find size of linked list like in ArrayList
 // ex-   list.add(4)  will add 4 in linkedlist and make it head
 public class ImplementaionOfLL {
-    public static class Node {
+    private static class Node {
         int data;
         Node next;
 
